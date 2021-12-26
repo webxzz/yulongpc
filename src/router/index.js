@@ -11,12 +11,12 @@ const routes = [
   },
   {
     path: '/baomingliucheng',
-    name: 'baomingliucheng',
+    name: '报名流程',
     component: () => import('@/views/baomingliucheng/baomingliucheng.vue')
   },
   {
     path: '/diqing',
-    name: 'diqing',
+    name: 'Vip地勤',
     component: () => import('@/views/diqing/diqing.vue')
   },
   {
@@ -26,7 +26,7 @@ const routes = [
   },
   {
     path: '/hangkong',
-    name: 'hangkong',
+    name: '航空学院',
     component: () => import('@/views/hangkong/hangkong.vue')
   },
   {
@@ -51,7 +51,7 @@ const routes = [
   },
   {
     path: '/youlong',
-    name: 'youlong',
+    name: '游轮海乘',
     component: () => import('@/views/youlong/youlong.vue')
   },
   {
