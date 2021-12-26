@@ -88,11 +88,16 @@
       <!--  -->
     </div>
     <!--  -->
+    <Footer/>
+    <!--  -->
   </div>
 </template>
 
 <script>
-export default {};
+import Footer from '@/components/footer/footer.vue'
+export default ({
+  components:{Footer}
+});
 </script>
 
 <style lang="scss" scoped>
@@ -108,8 +113,6 @@ li {
   background: #fff;
   .main {
     width: 1200px;
-    height: 800px;
-    background: yellow;
     margin: 0 auto;
     .text {
       height: 149px;
