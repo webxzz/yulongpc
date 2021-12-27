@@ -93,94 +93,44 @@
             </div>
 
             <div class="school">
-            <div class="school_nei">
-                <div class="school_top">
-                    <p>校园风景</p>
-                    <img src="@/assets/images/校园风景.png" alt="">
-                </div>
-                <div class="school_main">
-                    <div class="school_main_top">
-                    <div class="school_main_top_left">
-                        <img src="@/assets/images/报名09.png" alt="">
-                    </div>
-                    <div class="school_main_top_right">
-                        <img src="@/assets/images/报名10.png" alt="">
-                        <img src="@/assets/images/报名11.png" alt="">
-                    </div>
-                    </div>
-                    
-                    <div class="school_main_bottom">
-                        <img src="@/assets/images/报名12.png" alt="">
-                        <img src="@/assets/images/报名13.png" alt="">
-                    </div>
+              <div class="school_nei">
+                  <div class="school_top">
+                      <p>校园风景</p>
+                      <img src="@/assets/images/校园风景.png" alt="">
+                  </div>
+                  <div class="school_main">
+                      <div class="school_main_top">
+                      <div class="school_main_top_left">
+                          <img src="@/assets/images/报名09.png" alt="">
+                      </div>
+                      <div class="school_main_top_right">
+                          <img src="@/assets/images/报名10.png" alt="">
+                          <img src="@/assets/images/报名11.png" alt="">
+                      </div>
+                      </div>
+                      
+                      <div class="school_main_bottom">
+                          <img src="@/assets/images/报名12.png" alt="">
+                          <img src="@/assets/images/报名13.png" alt="">
+                      </div>
 
-                </div>
-            </div>
-
+                  </div>
+              </div>
             </div>
         </div>
-
-        <div class="register_footer">
-            <div class="footer_top">
-                <div>
-                <li><b>友情链接:</b></li>
-                <li>新浪微博</li>
-                <li>腾讯视频</li>
-                <li>百度贴吧</li>
-                <li>搜狐新闻</li>
-                <li>网易邮箱</li>
-                <li>去哪儿网</li>
-                <li>迅雷看看</li>
-                <li>拼多多</li>
-                <li>今日头条</li>
-                <li>高德地图</li>
-                </div>
-            </div>
-            <div class="footer_nei">
-                <div class="footer_main">
-                <div class="footer_logo">
-                    <img src="@/assets/images/VIP地勤专业pc_53.jpg" alt="">
-                </div>
-                <div class="footer_about">
-                    <p>关于我们</p>
-                    <li>煜龙时空</li>
-                    <li>行业动态</li>
-                    <li>推荐就业</li>
-                    <li>诚聘人才</li>
-                </div>
-                <div class="footer_serve">
-                    <p>服务与支持</p>
-                    <li>常见问题</li>
-                    <li>投诉反馈</li>
-                    <li>人工客服</li>
-                    <li>校企合作</li>
-                </div>
-                <div class="footer_iphone">
-                    <p>联系我们</p>
-                    <p>13229644681</p>
-                    <p>周一至周五9:00-18:00</p>
-                </div>
-                <div class="footer_QR">
-                    <img src="@/assets/images/VIP地勤专业pc_50.jpg" alt="">
-                    <p>关注公众号</p>
-                </div>
-                </div>
-            </div>
-            <div class="footer_bot">
-                <span>2003-2019 TMALL.COM</span>
-                <img src="@/assets/images/VIP地勤专业pc_58.jpg" alt="">
-                <span>[京ICP备2021018170号-1]</span>
-            </div>
-        </div>
+        <Footer></Footer>
     </div>
 </template>
 
 <script>
 import Header from '@/components/header/header.vue'
+import Footer from '@/components/footer/footer.vue'
+
 export default {
   name: 'Home',
   components: {
-      Header
+      Header,
+      Footer
   }
 }
 </script>
@@ -192,97 +142,15 @@ export default {
     .register_head{
       width: 100%;
       margin: 0 auto;
-      .register_head_title{
-        width: 100%;
-        height: 30px;
-        margin: 0 auto;
-        background-color: #F6F6F6;
-        div{
-          width: 1200px;
-          height: 100%;
-          margin: 0 auto;
-          display: flex;
-          flex-wrap: nowrap;
-          justify-content: space-between;
-          p{
-            color: #A0A0A0;
-            font-size: 12px;
-            line-height: 30px;
-          }
-        }
-      }
-      .register_head_logo{
-        width: 100%;
-        height: 90px;
-        margin: 0 auto;
-        background-color: #FFFFFF;
-        .head_logo_nei{
-          width: 1200px;
-          height: 100%;
-          margin: 0 auto;
-          display: flex;
-          flex-wrap: nowrap;
-          justify-content: space-between;
-          line-height: 90px;
-          .head_LOGO{
-            width: 20%;
-            text-align: left;
-            img{
-              margin-top: 20px;
-            }
-          }
-          .head_logo_caiDan{
-            width: 45%;
-            display: flex;
-            flex-wrap: nowrap;
-            justify-content: space-between;
-            
-          }
-          .head_logo_search{
-            width: 30%;
-            .search{
-              width: 99%;
-              height: 30px;
-              background-color: #fff;
-              border: 1px solid #2DABFF;
-              border-radius: 16px;
-              margin-top: 30px;
-              display: flex;
-              flex-wrap: nowrap;
-              justify-content: space-between;
-              input{
-                width: 76%;
-                font-size: 12px;
-                outline: none;
-                border: none;
-                margin-left: 15px;
-              }
-              .search_icon{
-                  width: 20%;
-                  height: 100%;
-                  background-color: #0099FF;
-                  border-radius: 0px 16px 16px 0px;
-                  margin-right: -1px;
-                  img{
-                    width: 20px;
-                    height: 20px;
-                    display: block;
-                    margin: 5px 0px 0px 24px;
-                  }
-              }
-            }
-          }
-        }
-      }
-      .register_head_banner{
-        width: 100%;
-        height: 363px;
+    }
+    .register_head_banner{
+        
         margin: 0 auto;
         img{
-          width: 100%;
+          width: 1920px;
+          height: 420px;
         }
       }
-    }
     .register_main{
       width: 100%;
       margin: 0 auto;
@@ -467,22 +335,22 @@ export default {
               justify-content: space-between;
               width: 100%;
               .school_main_top_left{
-                width: 58%;
+                // width: 58%;
                 img{
-                  width: 100%;
+                  width: 900px;
                   height: 313px;
                 }
               }
               .school_main_top_right{
-                width: 40%;
+                // width: 40%;
                 height: 100%;
                 img:nth-child(1){
-                  width: 100%;
+                  width: 607px;
                   height: 150px;
                   margin-bottom: 10px;
                 }
                 img:nth-child(2){
-                  width: 100%;
+                  width: 607px;
                   height: 150px;
                 }
               }
@@ -495,12 +363,12 @@ export default {
               flex-wrap: nowrap;
               justify-content: space-between;
               img:nth-child(1){
-                width: 49.5%;
-                height: 100%;
+                width: 752px;
+                // height: 100%;
               }
               img:nth-child(2){
-                width: 49.5%;
-                height: 100%;
+                width: 752px;
+                // height: 100%;
               }
             }
           }
