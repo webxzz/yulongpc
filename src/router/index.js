@@ -57,7 +57,7 @@ const routes = [
   {
     path: '/chuzhongsheng',
     name: 'chuzhongsheng',
-    component: () => import('@/views/hangkong/chuzhongsheng/chuzhongsheng.vue')
+    component: () => import('@/views/hangkong/chuzhongsheng/junior_school_student.vue')
   },
   {
     path: '/gaozhongsheng',

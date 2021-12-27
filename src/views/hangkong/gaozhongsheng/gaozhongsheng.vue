@@ -92,7 +92,7 @@
       <div class="jins">
         <div class="jins_title">空乘职位晋升详情</div>
         <div class="jins_main">
-          <img src="../assets/高中生/高中生_10.jpg" alt="" />
+          <img src="@/assets/img/高中生/高中生_10.jpg" alt="" />
           <p class="k_1">
             头等舱乘务员考核期满后，可担当区域乘务长，成绩优秀的区域乘务长经过考评委员会严格的考评后，可担当主任乘务长，并可以独立带班执行国际航班以及首长专机任务。
           </p>
