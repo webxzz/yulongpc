@@ -1,8 +1,6 @@
 <template>
     <div id="gaotie">
-        <div>
-			<Header />
-        </div>
+
         <div class="main">
             <div class="lunbo">
                 <div class="swiper mySwiper">
@@ -29,7 +27,7 @@
                 </div>
             </div>
             <div class="main-nav">
-                当前位置：首页>热门专业推荐>高铁乘务
+                当前位置:首页>热门专业推荐>高铁乘务
             </div>
             <div class="main-con">
                 <div class="content">
@@ -80,6 +78,7 @@
                         </div>
                         <div class="c1">
                             <img src="@/assets/img/高铁/images/高铁专业pc_07.jpg" alt="">
+
                         </div>
                     </div>
                 </div>
@@ -121,76 +120,19 @@
                         </li>
                         <li class="cc">
                             <img src="@/assets/img/高铁/images/高铁专业pc_30.jpg" alt="">
+
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
-		<div class="register_footer">
-		    <div class="footer_top">
-		        <div>
-		        <li><b>友情链接:</b></li>
-		        <li>新浪微博</li>
-		        <li>腾讯视频</li>
-		        <li>百度贴吧</li>
-		        <li>搜狐新闻</li>
-		        <li>网易邮箱</li>
-		        <li>去哪儿网</li>
-		        <li>迅雷看看</li>
-		        <li>拼多多</li>
-		        <li>今日头条</li>
-		        <li>高德地图</li>
-		        </div>
-		    </div>
-		    <div class="footer_nei">
-		        <div class="footer_main">
-		        <div class="footer_logo">
-		            <img src="@/assets/images/VIP地勤专业pc_53.jpg" alt="">
-		        </div>
-		        <div class="footer_about">
-		            <p>关于我们</p>
-		            <li>煜龙时空</li>
-		            <li>行业动态</li>
-		            <li>推荐就业</li>
-		            <li>诚聘人才</li>
-		        </div>
-		        <div class="footer_serve">
-		            <p>服务与支持</p>
-		            <li>常见问题</li>
-		            <li>投诉反馈</li>
-		            <li>人工客服</li>
-		            <li>校企合作</li>
-		        </div>
-		        <div class="footer_iphone">
-		            <p>联系我们</p>
-		            <p>13229644681</p>
-		            <p>周一至周五9:00-18:00</p>
-		        </div>
-		        <div class="footer_QR">
-		            <img src="@/assets/images/VIP地勤专业pc_50.jpg" alt="">
-		            <p>关注公众号</p>
-		        </div>
-		        </div>
-		    </div>
-		    <div class="footer_bot">
-		        <span>2003-2019 TMALL.COM</span>
-		        <img src="@/assets/images/VIP地勤专业pc_58.jpg" alt="">
-		        <span>[京ICP备2021018170号-1]</span>
-		    </div>
-		</div>
     </div>
 </template>
 
 <script>
 import Swiper from "swiper";
 import "swiper/css/swiper.css"
-import Header from '@/components/header/header.vue'
-import Footer from '@/components/footer/footer.vue'
 export default {
-	components:{
-		Header,
-		Footer
-	},
     mounted(){
         var swiper = new Swiper(".mySwiper", {
         cssMode: true,
@@ -327,121 +269,4 @@ export default {
         margin: 50px auto;
     }
 }
-.register_footer{
-      width: 100%;
-      height: 250px;
-      margin: 0 auto;
-      background-color: #313840;
-      .footer_top{
-        width: 100%;
-        height: 30px;
-        margin: 0 auto;
-        background-color: #444D56;
-        div{
-          width: 50%;
-          height: 30px;
-          display: flex;
-          flex-wrap: nowrap;
-          justify-content: space-between;
-          margin: 0 auto;
-          li{
-            color: #fff;
-            line-height: 30px;
-          }
-        }
-        
-      }
-      .footer_nei{
-        width: 1200px;
-        height: 118px;
-        margin: 0 auto;
-        margin-top: 24px;
-		margin-bottom: 50px;
-        .footer_main{
-          width: 100%;
-          height: 100%;
-          display: flex;
-          flex-wrap: nowrap;
-          justify-content: space-around;
-          .footer_logo{
-            width: 20%;
-            img{
-              width: 136px;
-              height: 46px;
-              margin-top: 34px;
-            }
-          }
-          .footer_about{
-            width: 20%;
-            p{
-              font-size: 17px;
-              margin-bottom: 12px;
-              color: #C1C1C2;
-            }
-            li{
-              margin-top: 5px;
-              color: #66696E;
-            }
-          }
-          .footer_serve{
-            width: 20%;
-            p{
-              font-size: 17px;
-              margin-bottom: 12px;
-              color: #C1C1C2;
-            }
-            li{
-              margin-top: 5px;
-              color: #66696E;
-            }
-          }
-          .footer_iphone{
-            width: 20%;
-            p:nth-child(1){
-              font-size: 15px;
-              color: #C1C1C2;
-              text-align: left;
-            }
-            p:nth-child(2){
-              font-size: 19px;
-              color: #fff;
-              text-align: left;
-            }
-            p:nth-child(3){
-              color: #66696E;
-              text-align: left;
-            }
-          }
-          .footer_QR{
-            width: 20%;
-            img{
-              width: 92px;
-              height: 92px;
-              margin-top: 8px;
-            }
-            p{
-              color: #545559;
-            }
-          }
-        }
-      }
-      .footer_bot{
-        width: 100%;
-        height: 26px;
-        margin: 0  auto;
-        background-color: #202328;
-        display: flex;
-        flex-wrap: nowrap;
-        color: #fff;
-        justify-content: center;
-        line-height: 26px;
-        img{
-          width: 14px;
-          height: 14px;
-          margin-left: 8px;
-          margin-right: 8px;
-          margin-top: 6px;
-        }
-      }
-    }
 </style>
