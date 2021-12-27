@@ -12,7 +12,7 @@
         <img src="@/assets/img/首页/首页未展开_03.png" alt="">
         <router-link tag="a" to="/" class="p">首页</router-link>
         <router-link tag="a" to="/hangkong" class="p">航空学院</router-link>
-        <a class="p">热门专业推荐</a>
+        <router-link tag="a" to="/gaotie" class="p">热门专业推荐</router-link>
         <a class="p">适学范围</a>
         <router-link tag="a" to="/baomingliucheng" class="p">报名流程</router-link>
         <a class="p">疑难解答</a>
