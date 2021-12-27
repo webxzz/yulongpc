@@ -89,6 +89,7 @@
                     <div class="con2">
                         <div class="c1">
                             <img src="@/assets/img/高铁/images/高铁专业pc_11.jpg" alt="">
+
                         </div>
                         <div class="c2">
                             <p>
