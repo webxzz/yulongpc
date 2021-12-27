@@ -56,7 +56,6 @@
           【京ICP备2021018170号-1】
         </li>
       </div>
-      <!--  -->
     </div>
   </div>
 </template>
@@ -70,8 +69,6 @@ export default {};
   margin: 0;
   padding: 0;
 }
-.boby {
-    width: 100%;
   .nav {
     min-width: 1200px;
     margin: 0 auto;
@@ -80,6 +77,7 @@ export default {};
       height: 40px;
       background-color: #444c56;
       display: flex;
+      flex-wrap: nowrap;
       justify-content: center;
       align-items: center;
       li:nth-child(1) {
@@ -178,5 +176,4 @@ export default {};
     }
     //
   }
-}
 </style>
