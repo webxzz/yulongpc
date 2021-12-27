@@ -15,9 +15,9 @@ const routes = [
     component: () => import('@/views/baomingliucheng/baomingliucheng.vue')
   },
   {
-    path: '/diqing',
+    path: '/diqin',
     name: 'Vip地勤',
-    component: () => import('@/views/diqing/diqing.vue')
+    component: () => import('@/views/VIPdiqin/VIPdiqin.vue')
   },
   {
     path: '/gaotie',
