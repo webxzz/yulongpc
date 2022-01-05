@@ -1,30 +1,31 @@
 <template>
   <div class="home">
     <div class="op">
-         <!-- banner -->
+      <!-- banner -->
     </div>
     <div class="one">
       <div class="ok">
-        <p>当前位置：首页>热门专业推荐></p>
+        <p>当前位置：首页>热门专业推荐>新能源汽车</p>
       </div>
       <!-- 什么是互联网 -->
       <div class="what">
         <div class="what_one">
-          <p>什么是互联网金融与管理?</p>
+          <p>什么是新能源汽车?</p>
         </div>
         <div class="what_two">
           <img
             width="100%"
             height="100%"
-            src="../../assets/img/互联网金融与管理/images/02jinrongbann.png"
+            src="../../assets/img/新能源汽车/03新能源banner2.png"
             alt=""
           />
         </div>
         <div class="what_thr">
           <p>
-            互联网金融(ITFIN)是指传统金融机构与互联网企业利用互联网技术和信息通信技术实现资金融通、支付、投资和信息中介服务的新型金融业务模式。<br /><br />
+            新能源电动汽车，英文：（New energy electric vehicles
+            ）新能源电动汽车的组成包括：电力驱动及控制系统、驱动力传动等机械系统、完成既定任务的工作装置等。<br /><br />
             <span class="lw">
-              &nbsp;&nbsp;互联网金融不是互联网和金融业的简单结合，而是在实现安全、移动等网络技术水平上，被用户熟悉接受后(尤其是对电子商务的接受)，自然而然为适应新的需求而产生的新模式及新业务。是传统金融行业与互联网技术相结合的新兴领域。
+              电力驱动及控制系统是电动汽车的核心，也是区别于内燃机汽车的最大不同点。电力驱动及控制系统由驱动电动机、电源和电动机的调速控制装置等组成。电动汽车的其他装置基本与内燃机汽车相同。
             </span>
           </p>
         </div>
@@ -42,7 +43,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_10.jpg"
+              src="../../assets/img/新能源汽车/金融与管理pc_10.jpg"
               alt=""
             />
           </div>
@@ -50,7 +51,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_07.jpg"
+              src="../../assets/img/新能源汽车/金融与管理pc_07.jpg"
               alt=""
             />
           </div>
@@ -58,7 +59,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_13.jpg"
+              src="../../assets/img/新能源汽车/金融与管理pc_13.jpg"
               alt=""
             />
           </div>
@@ -66,7 +67,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_16.jpg"
+              src="../../assets/img/新能源汽车/金融与管理pc_16.jpg"
               alt=""
             />
           </div>
@@ -86,7 +87,7 @@
               <img
                 width="100%"
                 height="100%"
-                src="../../assets/img/互联网金融与管理/images/金融与管理pc_23.jpg"
+                src="../../assets/img/新能源汽车/金融与管理pc_23.jpg"
                 alt=""
               />
             </div>
@@ -97,7 +98,7 @@
               <img
                 width="100%"
                 height="100%"
-                src="../../assets/img/互联网金融与管理/images/金融与管理pc_26.jpg"
+                src="../../assets/img/新能源汽车/金融与管理pc_26.jpg"
                 alt=""
               />
             </div>
@@ -108,7 +109,7 @@
               <img
                 width="100%"
                 height="100%"
-                src="../../assets/img/互联网金融与管理/images/金融与管理pc_29.jpg"
+                src="../../assets/img/新能源汽车/金融与管理pc_29.jpg"
                 alt=""
               />
             </div>
@@ -119,7 +120,7 @@
               <img
                 width="100%"
                 height="100%"
-                src="../../assets/img/互联网金融与管理/images/金融与管理pc_32.jpg"
+                src="../../assets/img/新能源汽车/金融与管理pc_32.jpg"
                 alt=""
               />
             </div>
@@ -139,7 +140,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="../../assets/img/新能源汽车/金融与管理pc_39.jpg"
               alt=""
             />
           </div>
@@ -170,7 +171,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="../../assets/img/新能源汽车/金融与管理pc_42.jpg"
               alt=""
             />
           </div>
@@ -203,7 +204,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="../../assets/img/新能源汽车/金融与管理pc_49.jpg"
               alt=""
             />
           </div>
@@ -234,7 +235,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="../../assets/img/新能源汽车/金融与管理pc_46.jpg"
               alt=""
             />
           </div>
@@ -267,7 +268,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="../../assets/img/新能源汽车/金融与管理pc_52.jpg"
               alt=""
             />
           </div>
@@ -298,7 +299,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="../../assets/img/新能源汽车/金融与管理pc_55.jpg"
               alt=""
             />
           </div>
@@ -343,7 +344,7 @@
                 <img
                   width="100%"
                   height="100%"
-                  src="../../assets/img/互联网金融与管理/images/金融与管理pc_70.jpg"
+                  src="../../assets/img/新能源汽车/新能源汽车pc_05.jpg"
                   alt=""
                 />
               </div>
@@ -351,7 +352,7 @@
                 <img
                   width="100%"
                   height="100%"
-                  src="../../assets/img/互联网金融与管理/images/金融与管理pc_71.jpg"
+                  src="../../assets/img/新能源汽车/新能源汽车pc_08.jpg"
                   alt=""
                 />
               </div>
@@ -361,7 +362,7 @@
                 <img
                   width="100%"
                   height="100%"
-                  src="../../assets/img/互联网金融与管理/images/金融与管理pc_71.jpg"
+                  src="../../assets/img/新能源汽车/新能源汽车pc_12.jpg"
                   alt=""
                 />
               </div>
@@ -369,7 +370,7 @@
                 <img
                   width="100%"
                   height="100%"
-                  src="../../assets/img/互联网金融与管理/images/金融与管理pc_70.jpg"
+                  src="../../assets/img/新能源汽车/新能源汽车pc_14.jpg"
                   alt=""
                 />
               </div>
@@ -385,31 +386,19 @@
             <div class="two_one">
               <div class="two_tp">
                 <div class="tp_nr">
-                  <div class="yy_nr">产品经理</div>
+                  <div class="yy_nr">新能源汽车技术工程师</div>
                 </div>
               </div>
               <div class="two_xq">
                 <div class="xq_nb">
-                  生命周期,协调研发、营销、运营等,确定和组织实施相应的产品策略,以及其他一系...
+                  就业方向： 未来15年，中国汽车产业的总路线图将以2020年、2025年2030年三个五...
                 </div>
               </div>
             </div>
             <div class="two_to">
               <div class="to_tp">
                 <div class="tp_nr">
-                  <div class="yy_nr">新媒体</div>
-                </div>
-              </div>
-              <div class="two_xq">
-                <div class="xq_nb">
-                  生命周期,协调研发、营销、运营等,确定和组织实施相应的产品策略,以及其他一系...
-                </div>
-              </div>
-            </div>
-            <div class="two_thr">
-              <div class="thr_tp">
-                <div class="tp_nr">
-                  <div class="yy_nr">金融产品</div>
+                  <div class="yy_nr">汽车商务与新媒体运营</div>
                 </div>
               </div>
               <div class="two_xq">
@@ -423,7 +412,7 @@
             <div class="two_one">
               <div class="two_tp">
                 <div class="tp_nr">
-                  <div class="yy_nr">产品经理</div>
+                  <div class="yy_nr">新能源汽车技术工程师</div>
                 </div>
               </div>
               <div class="two_xq">
@@ -435,19 +424,7 @@
             <div class="two_to">
               <div class="to_tp">
                 <div class="tp_nr">
-                  <div class="yy_nr">新媒体</div>
-                </div>
-              </div>
-              <div class="two_xq">
-                <div class="xq_nb">
-                  生命周期,协调研发、营销、运营等,确定和组织实施相应的产品策略,以及其他一系...
-                </div>
-              </div>
-            </div>
-            <div class="two_thr">
-              <div class="thr_tp">
-                <div class="tp_nr">
-                  <div class="yy_nr">金融产品</div>
+                  <div class="yy_nr">高端车诊断与维修工程师</div>
                 </div>
               </div>
               <div class="two_xq">
@@ -470,7 +447,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -481,7 +458,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -492,7 +469,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -503,7 +480,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -514,7 +491,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -525,7 +502,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -536,7 +513,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -547,7 +524,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -559,7 +536,7 @@
                     <div class="cha_left">查看更多通告 ></div>
                     <div class="cha_rig">
                       <img
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_98.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_98.jpg"
                         alt=""
                       />
                     </div>
@@ -578,7 +555,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -589,7 +566,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -600,7 +577,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -611,7 +588,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -622,7 +599,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -633,7 +610,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -644,7 +621,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -655,7 +632,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -667,7 +644,7 @@
                     <div class="cha_left">查看更多通告 ></div>
                     <div class="cha_rig">
                       <img
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_98.jpg"
+                        src="../../assets/img/新能源汽车/金融与管理pc_98.jpg"
                         alt=""
                       />
                     </div>
@@ -685,7 +662,7 @@
               <div class="unit_one">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_101.jpg"
+                    src="../../assets/img/新能源汽车/金融与管理pc_101.jpg"
                     alt=""
                   />
                 </div>
@@ -694,7 +671,7 @@
               <div class="unit_two">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_104.jpg"
+                    src="../../assets/img/新能源汽车/金融与管理pc_104.jpg"
                     alt=""
                   />
                 </div>
@@ -703,7 +680,7 @@
               <div class="unit_thr">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_109.jpg"
+                    src="../../assets/img/新能源汽车/金融与管理pc_109.jpg"
                     alt=""
                   />
                 </div>
@@ -714,7 +691,7 @@
               <div class="unit_one">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_101.jpg"
+                    src="../../assets/img/新能源汽车/金融与管理pc_101.jpg"
                     alt=""
                   />
                 </div>
@@ -723,7 +700,7 @@
               <div class="unit_two">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_104.jpg"
+                    src="../../assets/img/新能源汽车/金融与管理pc_104.jpg"
                     alt=""
                   />
                 </div>
@@ -732,7 +709,7 @@
               <div class="unit_thr">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_109.jpg"
+                    src="../../assets/img/新能源汽车/金融与管理pc_109.jpg"
                     alt=""
                   />
                 </div>
@@ -745,7 +722,7 @@
               <div class="information_one">
                 <div class="information_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_122.jpg"
+                    src="../../assets/img/新能源汽车/金融与管理pc_122.jpg"
                     alt=""
                   />
                 </div>
@@ -754,7 +731,7 @@
               <div class="information_two">
                 <div class="information_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_116.jpg"
+                    src="../../assets/img/新能源汽车/金融与管理pc_116.jpg"
                     alt=""
                   />
                 </div>
@@ -763,7 +740,7 @@
               <div class="information_thr">
                 <div class="information_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_119.jpg"
+                    src="../../assets/img/新能源汽车/金融与管理pc_119.jpg"
                     alt=""
                   />
                 </div>
@@ -794,10 +771,11 @@ export default {
     height: 458px;
     background: red;
     margin: 0 auto;
-    background: url("../../assets/img/互联网金融与管理/images/互联网金融与管理.jpg") center no-repeat;
+    background: url("../../assets/img/新能源汽车/新能源汽车.jpg") center
+      no-repeat;
     background-size: cover;
   }
- 
+
   .one {
     width: 1200px;
     height: 5942px;
@@ -808,11 +786,9 @@ export default {
     width: 315px;
     height: 44px;
     /* background: darkblue; */
-    text-align: center;
     font-size: 14px;
     line-height: 36px;
     color: #888;
-    text-align: left;
     margin-top: 30px;
   }
   /* 什么是互联网 */
@@ -827,7 +803,7 @@ export default {
     font-size: 36px;
     color: #100f0f;
     text-align: left;
-    
+
     /* background: rgb(17, 238, 238); */
   }
   .what_one > p {
@@ -844,9 +820,8 @@ export default {
     /* background: lightpink; */
     font-size: 18px;
     color: #100f0f;
+    margin: 0 auto;
     padding: 0 36px;
-    text-align: center; 
-     margin: 0 auto;
   }
   .what_thr > P {
     padding-top: 40px;
@@ -1221,8 +1196,7 @@ export default {
   .zs_left {
     width: 580px;
     height: 530px;
-    /* background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_66.jpg); */
-    background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_66.jpg);
+    background: url(../../assets/img/新能源汽车/新能源汽车pc_03.jpg);
     background-size: 100%;
     position: relative;
   }
@@ -1298,15 +1272,15 @@ export default {
     border-top-right-radius: 20px;
   }
   .prospect_jiu {
-    width: 145px;
-    height: 37px;
+    width: 266px;
+    height: 76px;
     /* background: #cfd3e0; */
     font-size: 36px;
-    text-align: left;
     color: #fff;
     font-weight: 500;
-    padding-left: 54px;
-    padding-top: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
   }
   .prospect_two {
     width: 1200px;
@@ -1314,70 +1288,77 @@ export default {
     /* background: lightblue; */
     margin-top: 20px;
     display: flex;
+    justify-content: space-around;
   }
   .two_one {
-    width: 331px;
-    height: 358px;
-    /* background: lightgreen; */
-    margin-left: 30px;
+    width: 452px;
+    background-color: #eaeaea;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
   .two_tp {
-    width: 331px;
+    width: 451px;
     height: 228px;
-    background: url(../../assets/img/互联网金融与管理/images/金融与管理pc72.jpg);
+    background: url(../../assets/img/新能源汽车/新能源汽车pc_20.jpg);
     background-size: 100%;
     position: relative;
   }
   .to_tp {
-    width: 331px;
+    width: 451px;
     height: 228px;
-    background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_77.jpg);
+    background: url(../../assets/img/新能源汽车/新能源汽车pc_23.jpg);
     background-size: 100%;
     position: relative;
   }
   .thr_tp {
-    width: 331px;
+    width: 451px;
     height: 228px;
     background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_79.jpg);
     background-size: 100%;
     position: relative;
   }
   .tp_nr {
-    width: 331px;
+    width: 451px;
     height: 68px;
     background: #000;
     opacity: 0.5;
     bottom: 0;
     position: absolute;
+    display: flex;
   }
   .yy_nr {
-    width: 147px;
+  
     height: 36px;
-    font-size: 36px;
-    font-weight: 500;
+    font-size: 30px;
+    font-weight: bold;
     color: #fff;
     margin: 10px auto;
+    
   }
   .two_xq {
-    width: 331px;
-    height: 125px;
-    background: #eaeaea;
+    width: 420px;
+    height: 70px;
+    /* background: red; */
+    margin: 20px 15px;
   }
   .xq_nb {
-    width: 310px;
-    height: 89px;
-    /* background: wheat; */
+    width: 420px;
+    height: 48px;
+    font-family: AdobeHeitiStd-Regular;
     font-size: 18px;
-    color: #1a1818;
-    margin-left: 11px;
-    margin-top: 5px;
-    padding-top: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #4a4a4a;
   }
   .two_to {
-    width: 331px;
-    height: 358px;
-    /* background: rgb(57, 71, 57); */
-    margin-left: 73px;
+    width: 452px;
+    background-color: #eaeaea;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
   .two_thr {
     width: 331px;

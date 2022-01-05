@@ -55,6 +55,12 @@ const routes = [
     component: () => import('@/views/youlong/youlong.vue')
   },
   {
+    path: '/xinnengyuan',
+    name: 'xinnengyuan',
+    title:"新能源汽车",
+    component: () => import('@/views/xinnengyuan-cart/xinnengyuan.vue')
+  },
+  {
     path: '/chuzhongsheng',
     name: 'chuzhongsheng',
     component: () => import('@/views/hangkong/chuzhongsheng/junior_school_student.vue')
@@ -74,6 +80,7 @@ const routes = [
     name: 'yikaosheng',
     component: () => import('@/views/hangkong/yikaosheng/yikaosheng.vue')
   }
+ 
 ]
 
 const router = new VueRouter({
