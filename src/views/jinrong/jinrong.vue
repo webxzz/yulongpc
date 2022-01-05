@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="op">
-         <!-- banner -->
+     
     </div>
     <div class="one">
       <div class="ok">
@@ -13,12 +13,7 @@
           <p>什么是互联网金融与管理?</p>
         </div>
         <div class="what_two">
-          <img
-            width="100%"
-            height="100%"
-            src="../../assets/img/互联网金融与管理/images/02jinrongbann.png"
-            alt=""
-          />
+          <img width="100%" height="100%" src="../../assets\img\互联网金融与管理\images\02jinrongbann.png" alt="" />
         </div>
         <div class="what_thr">
           <p>
@@ -42,28 +37,23 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_10.jpg"
+              src="@/assets/img/互联网金融与管理/images/金融与管理pc_10.jpg"
               alt=""
             />
           </div>
-<<<<<<< HEAD
           <div class="thr_two">
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_07.jpg"
+              src="@/assets/img/互联网金融与管理/images/金融与管理pc_07.jpg"
               alt=""
             />
-=======
-          <div class="what_two">
-              <img width="100%" height="100%" src="" alt="">
->>>>>>> c1d3236bea4bf74975aedf36a513912c65da0086
           </div>
           <div class="thr_ree">
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_13.jpg"
+              src="@/assets/img/互联网金融与管理/images/金融与管理pc_13.jpg"
               alt=""
             />
           </div>
@@ -71,7 +61,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_16.jpg"
+              src="@/assets/img/互联网金融与管理/images/金融与管理pc_16.jpg"
               alt=""
             />
           </div>
@@ -91,7 +81,7 @@
               <img
                 width="100%"
                 height="100%"
-                src="../../assets/img/互联网金融与管理/images/金融与管理pc_23.jpg"
+                src="@/assets/img/互联网金融与管理/images/金融与管理pc_23.jpg"
                 alt=""
               />
             </div>
@@ -102,7 +92,7 @@
               <img
                 width="100%"
                 height="100%"
-                src="../../assets/img/互联网金融与管理/images/金融与管理pc_26.jpg"
+                src="@/assets/img/互联网金融与管理/images/金融与管理pc_26.jpg"
                 alt=""
               />
             </div>
@@ -113,7 +103,7 @@
               <img
                 width="100%"
                 height="100%"
-                src="../../assets/img/互联网金融与管理/images/金融与管理pc_29.jpg"
+                src="@/assets/img/互联网金融与管理/images/金融与管理pc_29.jpg"
                 alt=""
               />
             </div>
@@ -124,7 +114,7 @@
               <img
                 width="100%"
                 height="100%"
-                src="../../assets/img/互联网金融与管理/images/金融与管理pc_32.jpg"
+                src="@/assets/img/互联网金融与管理/images/金融与管理pc_32.jpg"
                 alt=""
               />
             </div>
@@ -144,7 +134,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="@/assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
               alt=""
             />
           </div>
@@ -175,7 +165,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="@/assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
               alt=""
             />
           </div>
@@ -208,7 +198,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="@/assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
               alt=""
             />
           </div>
@@ -239,7 +229,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="@/assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
               alt=""
             />
           </div>
@@ -272,7 +262,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="@/assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
               alt=""
             />
           </div>
@@ -303,7 +293,7 @@
             <img
               width="100%"
               height="100%"
-              src="../../assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
+              src="@/assets/img/互联网金融与管理/images/金融与管理pc_39.jpg"
               alt=""
             />
           </div>
@@ -348,7 +338,7 @@
                 <img
                   width="100%"
                   height="100%"
-                  src="../../assets/img/互联网金融与管理/images/金融与管理pc_70.jpg"
+                  src="@/assets/img/互联网金融与管理/images/金融与管理pc_70.jpg"
                   alt=""
                 />
               </div>
@@ -356,7 +346,7 @@
                 <img
                   width="100%"
                   height="100%"
-                  src="../../assets/img/互联网金融与管理/images/金融与管理pc_71.jpg"
+                  src="@/assets/img/互联网金融与管理/images/金融与管理pc_71.jpg"
                   alt=""
                 />
               </div>
@@ -366,7 +356,7 @@
                 <img
                   width="100%"
                   height="100%"
-                  src="../../assets/img/互联网金融与管理/images/金融与管理pc_71.jpg"
+                  src="@/assets/img/互联网金融与管理/images/金融与管理pc_71.jpg"
                   alt=""
                 />
               </div>
@@ -374,7 +364,7 @@
                 <img
                   width="100%"
                   height="100%"
-                  src="../../assets/img/互联网金融与管理/images/金融与管理pc_70.jpg"
+                  src="@/assets/img/互联网金融与管理/images/金融与管理pc_70.jpg"
                   alt=""
                 />
               </div>
@@ -475,7 +465,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -486,7 +476,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -497,7 +487,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -508,7 +498,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -519,7 +509,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -530,7 +520,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -541,7 +531,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -552,7 +542,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -564,7 +554,7 @@
                     <div class="cha_left">查看更多通告 ></div>
                     <div class="cha_rig">
                       <img
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_98.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_98.jpg"
                         alt=""
                       />
                     </div>
@@ -583,7 +573,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -594,7 +584,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -605,7 +595,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -616,7 +606,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -627,7 +617,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -638,7 +628,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -649,7 +639,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -660,7 +650,7 @@
                       <img
                         width="100%"
                         height="100%"
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_94.jpg"
                         alt=""
                       />
                     </div>
@@ -672,7 +662,7 @@
                     <div class="cha_left">查看更多通告 ></div>
                     <div class="cha_rig">
                       <img
-                        src="../../assets/img/互联网金融与管理/images/金融与管理pc_98.jpg"
+                        src="@/assets/img/互联网金融与管理/images/金融与管理pc_98.jpg"
                         alt=""
                       />
                     </div>
@@ -690,7 +680,7 @@
               <div class="unit_one">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_101.jpg"
+                    src="@/assets/img/互联网金融与管理/images/金融与管理pc_101.jpg"
                     alt=""
                   />
                 </div>
@@ -699,7 +689,7 @@
               <div class="unit_two">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_104.jpg"
+                    src="@/assets/img/互联网金融与管理/images/金融与管理pc_104.jpg"
                     alt=""
                   />
                 </div>
@@ -708,7 +698,7 @@
               <div class="unit_thr">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_109.jpg"
+                    src="@/assets/img/互联网金融与管理/images/金融与管理pc_109.jpg"
                     alt=""
                   />
                 </div>
@@ -719,7 +709,7 @@
               <div class="unit_one">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_101.jpg"
+                    src="@/assets/img/互联网金融与管理/images/金融与管理pc_101.jpg"
                     alt=""
                   />
                 </div>
@@ -728,7 +718,7 @@
               <div class="unit_two">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_104.jpg"
+                    src="@/assets/img/互联网金融与管理/images/金融与管理pc_104.jpg"
                     alt=""
                   />
                 </div>
@@ -737,7 +727,7 @@
               <div class="unit_thr">
                 <div class="unit_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_109.jpg"
+                    src="@/assets/img/互联网金融与管理/images/金融与管理pc_109.jpg"
                     alt=""
                   />
                 </div>
@@ -750,7 +740,7 @@
               <div class="information_one">
                 <div class="information_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_122.jpg"
+                    src="@/assets/img/互联网金融与管理/images/金融与管理pc_122.jpg"
                     alt=""
                   />
                 </div>
@@ -759,7 +749,7 @@
               <div class="information_two">
                 <div class="information_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_116.jpg"
+                    src="@/assets/img/互联网金融与管理/images/金融与管理pc_116.jpg"
                     alt=""
                   />
                 </div>
@@ -768,7 +758,7 @@
               <div class="information_thr">
                 <div class="information_tp">
                   <img
-                    src="../../assets/img/互联网金融与管理/images/金融与管理pc_119.jpg"
+                    src="@/assets/img/互联网金融与管理/images/金融与管理pc_119.jpg"
                     alt=""
                   />
                 </div>
@@ -788,21 +778,16 @@ export default {
   components: {},
 };
 </script>
-<style>
+<style scoped>
 @media screen and (min-width: 1920px) {
 }
 @media screen and (min-width: 1200px) {
   .op {
-    /* position: fixed;
-      left: 0; */
     width: 1200px;
     height: 458px;
-    background: red;
-    margin: 0 auto;
-    background: url("../../assets/img/互联网金融与管理/images/互联网金融与管理.jpg") center no-repeat;
+    background: url(../../assets/img/互联网金融与管理/images/互联网金融与管理.jpg) center no-repeat;
     background-size: cover;
   }
- 
   .one {
     width: 1200px;
     height: 5942px;
@@ -827,17 +812,16 @@ export default {
     /* background: lightblue; */
   }
   .what_one {
-    width: 600px;
+    width: 500px;
     height: 182px;
     font-size: 36px;
     color: #100f0f;
     text-align: left;
-    
     /* background: rgb(17, 238, 238); */
+    display: flex;
+    align-items: center;
   }
-  .what_one > p {
-    padding-top: 86px;
-  }
+ 
   .what_two {
     width: 1200px;
     height: 280px;
@@ -848,10 +832,8 @@ export default {
     height: 167px;
     /* background: lightpink; */
     font-size: 18px;
+    text-align: left;
     color: #100f0f;
-    padding: 0 36px;
-    text-align: center; 
-     margin: 0 auto;
   }
   .what_thr > P {
     padding-top: 40px;
@@ -1035,7 +1017,7 @@ export default {
     border-top-right-radius: 30px;
   }
   .academy_nr {
-    width: 265px;
+     width: 265px;
     height: 76px;
     font-size: 36px;
     color: #fff;
@@ -1043,7 +1025,7 @@ export default {
     font-weight: 500;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
   }
   .academy_area {
     width: 1200px;
@@ -1144,7 +1126,6 @@ export default {
     font-size: 20px;
   }
 
-<<<<<<< HEAD
   .area_four {
     width: 289px;
     height: 19px;
@@ -1227,7 +1208,7 @@ export default {
   .zs_left {
     width: 580px;
     height: 530px;
-    /* background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_66.jpg); */
+    /* background: url(@/assets/img/互联网金融与管理/images/金融与管理pc_66.jpg); */
     background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_66.jpg);
     background-size: 100%;
     position: relative;
@@ -1257,120 +1238,6 @@ export default {
     margin-top: 19px;
   }
   .zs_jj {
-=======
-    .area_four{
-        width: 289px;
-        height: 19px;
-        /* background: rgb(77, 162, 190); */
-        margin-top: 39px;
-        display: flex;
-    }
-    .four_xx{
-      width: 120px;
-      height: 19px;
-      line-height: 19px;
-      /* background: lightcyan; */
-      font-size: 20px;
-      text-align: left;
-      color: #999;
-    }
-    .four_cs{
-      width: 169px;
-      height: 19px;
-      line-height: 19px;
-      /* background: rgb(38, 199, 199); */
-      color: #999;
-      text-align: left;
-      font-size: 20px;
-    }
-    .area_five{
-        width: 289px;
-        height: 19px;
-        /* background: rgb(77, 162, 190); */
-        margin-top: 39px;
-        display: flex;
-    }
-    .five_xx{
-      width: 94px;
-      height: 19px;
-      line-height: 19px;
-      /* background: lightcyan; */
-      font-size: 20px;
-      text-align: left;
-      color: #666;
-    }
-    .five_cs{
-      width: 169px;
-      height: 19px;
-      line-height: 19px;
-      /* background: rgb(38, 199, 199); */
-      color: #999;
-      text-align: left;
-      font-size: 20px;
-    }
-    .graduate{
-      width: 1200px;
-      height: 76px;
-      border-bottom: 2px solid #1776ae;
-      /* background: springgreen; */
-      margin-top: 20px;
-    }
-    .graduate_bt{
-      width: 369px;
-      height: 76px;
-      background: rgb(23, 118, 174);
-      border-top-right-radius: 20px;
-    }
-    .bt_qy{
-      width: 257px;
-      height: 36px;
-      color: #fff;
-      font-size: 36px;
-      margin-left: 56px;
-      /* background: slategray; */
-      padding-top: 18px;
-    }
-    .graduate_zs{
-      width: 1200px;
-      height: 530px;
-      /* background: slategrey; */
-      margin-top: 18px;
-      display: flex;
-    }
-    .zs_left{
-      width: 580px;
-      height: 530px;
-      /* background: url(@/assets/img/互联网金融与管理/images/金融与管理pc_66.jpg); */
-      background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_66.jpg);
-      background-size: 100%;
-      position: relative;
-    }
-    .zs_rig{
-      width: 580px;
-      height: 530px;
-      /* background: thistle; */
-      margin-left: 40px;
-    }
-    .zs_yy{
-      width: 580px;
-      height: 109px;
-      opacity: 0.5;
-      background: #191717;
-      bottom: 0;
-      position: absolute;
-    }
-    .zs_xx{
-      width: 294px;
-      height: 36px;
-      font-size: 36px;
-      text-align: left;
-      color: #fefefe;
-      font-weight: 500;
-      margin-left: 12px;
-      margin-top: 19px;
-  }
-  .zs_jj{
->>>>>>> c1d3236bea4bf74975aedf36a513912c65da0086
     width: 479px;
     height: 24px;
     font-size: 24px;
@@ -1418,15 +1285,16 @@ export default {
     border-top-right-radius: 20px;
   }
   .prospect_jiu {
-    width: 145px;
-    height: 37px;
+    width: 266px;
+    height: 76px;
     /* background: #cfd3e0; */
     font-size: 36px;
     text-align: left;
     color: #fff;
     font-weight: 500;
-    padding-left: 54px;
-    padding-top: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
   }
   .prospect_two {
     width: 1200px;
