@@ -46,6 +46,7 @@
               alt=""
             />
           </div>
+<<<<<<< HEAD
           <div class="thr_two">
             <img
               width="100%"
@@ -53,6 +54,10 @@
               src="../../assets/img/互联网金融与管理/images/金融与管理pc_07.jpg"
               alt=""
             />
+=======
+          <div class="what_two">
+              <img width="100%" height="100%" src="" alt="">
+>>>>>>> c1d3236bea4bf74975aedf36a513912c65da0086
           </div>
           <div class="thr_ree">
             <img
@@ -1139,6 +1144,7 @@ export default {
     font-size: 20px;
   }
 
+<<<<<<< HEAD
   .area_four {
     width: 289px;
     height: 19px;
@@ -1251,6 +1257,120 @@ export default {
     margin-top: 19px;
   }
   .zs_jj {
+=======
+    .area_four{
+        width: 289px;
+        height: 19px;
+        /* background: rgb(77, 162, 190); */
+        margin-top: 39px;
+        display: flex;
+    }
+    .four_xx{
+      width: 120px;
+      height: 19px;
+      line-height: 19px;
+      /* background: lightcyan; */
+      font-size: 20px;
+      text-align: left;
+      color: #999;
+    }
+    .four_cs{
+      width: 169px;
+      height: 19px;
+      line-height: 19px;
+      /* background: rgb(38, 199, 199); */
+      color: #999;
+      text-align: left;
+      font-size: 20px;
+    }
+    .area_five{
+        width: 289px;
+        height: 19px;
+        /* background: rgb(77, 162, 190); */
+        margin-top: 39px;
+        display: flex;
+    }
+    .five_xx{
+      width: 94px;
+      height: 19px;
+      line-height: 19px;
+      /* background: lightcyan; */
+      font-size: 20px;
+      text-align: left;
+      color: #666;
+    }
+    .five_cs{
+      width: 169px;
+      height: 19px;
+      line-height: 19px;
+      /* background: rgb(38, 199, 199); */
+      color: #999;
+      text-align: left;
+      font-size: 20px;
+    }
+    .graduate{
+      width: 1200px;
+      height: 76px;
+      border-bottom: 2px solid #1776ae;
+      /* background: springgreen; */
+      margin-top: 20px;
+    }
+    .graduate_bt{
+      width: 369px;
+      height: 76px;
+      background: rgb(23, 118, 174);
+      border-top-right-radius: 20px;
+    }
+    .bt_qy{
+      width: 257px;
+      height: 36px;
+      color: #fff;
+      font-size: 36px;
+      margin-left: 56px;
+      /* background: slategray; */
+      padding-top: 18px;
+    }
+    .graduate_zs{
+      width: 1200px;
+      height: 530px;
+      /* background: slategrey; */
+      margin-top: 18px;
+      display: flex;
+    }
+    .zs_left{
+      width: 580px;
+      height: 530px;
+      /* background: url(@/assets/img/互联网金融与管理/images/金融与管理pc_66.jpg); */
+      background: url(../../assets/img/互联网金融与管理/images/金融与管理pc_66.jpg);
+      background-size: 100%;
+      position: relative;
+    }
+    .zs_rig{
+      width: 580px;
+      height: 530px;
+      /* background: thistle; */
+      margin-left: 40px;
+    }
+    .zs_yy{
+      width: 580px;
+      height: 109px;
+      opacity: 0.5;
+      background: #191717;
+      bottom: 0;
+      position: absolute;
+    }
+    .zs_xx{
+      width: 294px;
+      height: 36px;
+      font-size: 36px;
+      text-align: left;
+      color: #fefefe;
+      font-weight: 500;
+      margin-left: 12px;
+      margin-top: 19px;
+  }
+  .zs_jj{
+>>>>>>> c1d3236bea4bf74975aedf36a513912c65da0086
     width: 479px;
     height: 24px;
     font-size: 24px;

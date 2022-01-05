@@ -113,8 +113,8 @@ export default {};
                 width: 53px;
                 height: 28px;
                 position: relative;
-                left: 141px;
-                top: -28px;
+                left: -11px;
+                top: -1px;
             }
         }
         // .header_left{
